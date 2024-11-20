@@ -9,6 +9,7 @@ This project involves decomposing unitary matrices for understanding their rotat
 
 
 [![Video](https://github.com/Shirish2004/Project-QCS/assets/presentation_new.mp4)]
+<video src="https://github.com/Shirish2004/Project-QCS/blob/main/assets/presentation_new.mp4" width="540" height="720"></video>
 ---
 
 ## Files in the Project
