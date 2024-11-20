@@ -6,6 +6,8 @@
 ## Project Description
 
 This project involves decomposing unitary matrices for understanding their rotational decomposition. It uses the **Manim** animation library to create illustrative scenes for educational purposes in quantum computer science.
+
+
 [![Video](/assets/presentation_new.mp4)]
 ---
 
